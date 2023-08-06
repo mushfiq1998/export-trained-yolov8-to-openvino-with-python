@@ -1,0 +1,15 @@
+description: Ultralytics best model (untrained)
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-08-06T03:06:06.499306'
+version: 8.0.148
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 800
+- 800
+names:
+  0: Fire
+  1: default
+  2: smoke
